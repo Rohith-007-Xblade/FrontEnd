@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="platform.css">
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+ <script src="https://kit.fontawesome.com/1631241496.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark pt-2 ">
+            <a class="navbar-brand p-3">Cars46</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#gojo">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="gojo">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a href="#" class="nav-link active">Home</a></li>
+                    <li class="nav-item"><a href="file:///C:/Users/rohit/OneDrive/Desktop/jsProgramming/platform2.html" class="nav-link">Support</a></li>
+                    <li class="nav-item"><a href="file:///C:/Users/rohit/OneDrive/Desktop/jsProgramming/platform3.html" class="nav-link">Contact Us</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">About</a></li>
+                </ul>
+                <form class="me-5 text-white">
+                    <input type="text" class="rounded">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </form>
+            </div>
+        </nav>
+    </header>
+    <section id="home" class="bg-dark text-white ">
+        <p class="text-center">Best <span>Cars</span> </p>
+        <p class="text-center">Best <span>Service</span></p>
+        <p class="text-center">24hrs <span>Support</span></p>
+        <p class="text-center">High <span>Performance</span></p>
+        </section>
+    <section id="ford">
+<div class="row mt-4">
+    <div class="col">
+       
+   <img src="C:\Users\rohit\Downloads\ford.jpg"  alt="">
+    </div>
+    <div class="col">
+        <h1 class="display-3 mt-5">Ford Mustang:</h1>
+        <p class="p-4">The Ford Mustang is a series of American automobiles manufactured by Ford1. 
+            It has been in continuous production since 1964 and is currently the longest-produced Ford car nameplate1.
+             Currently in its sixth generation, it is the fifth-best selling Ford car nameplate1. 
+             The Mustang provides ample amounts of style and performance, from a base EcoBoost all the way up to a decked-out V8-powered GT2.
+              It also makes the appropriate nods to the Mustang's heritage while staying current with the latest technology features2.</p>
+  <div class="card">
+    <div class="card-header bg-dark text-white">Ford Mustang</div>
+    <div class="card-body">
+        <h4>Specifications</h4>
+        <p>* Engine Capacity:4951 cc <br>
+           * Fuel type:Petrol <br>
+           * Fuel tank capacity:61 L <br>
+           * Transmission:6-speed automatic <br>
+           * Torque:515 N·m <br>
+           * Power:401 hp <br>
+           * Engine:5L 401 HP V 8</p>
+
+    </div>
+  </div>
+    </div>
+</div>
+    </section>
+    <section id="Koneigsegg">
+        <div class="row mt-4">
+            <div class="col">
+               
+           <img src="C:\Users\rohit\Downloads\koneigs egg.jpg"  alt="">
+            </div>
+            <div class="col">
+                <h1 class="display-3 mt-5">Koneigsegg:</h1>
+                <p class="p-4">Each and every Koenigsegg has a premium price, but then
+                    each and every Koenigsegg has been painstakingly built by
+                    a select group of automotive artisans to the highest
+                    possible standards.
+                    
+                    At Koenigsegg, we are able to fabricate intricate,
+                    hand-made metal and carbon fiber components in our own
+                    hi-tech production facilities. We also source specialist
+                    components from a network of dedicated suppliers and
+                    partners – most of which are based in Sweden.</p>
+          <div class="card">
+            <div class="card-header bg-dark text-white">Koneigsegg</div>
+            <div class="card-body">
+                <h4>Specifications</h4>
+                <p>INTERNAL COMBUSTION ENGINE
+                    Koenigsegg Hot V8
+                    5L Twin Turbo V8
+                    Power: 1500 hp at 7800 rpm, red line 8500 rpm
+                    Torque: 1500 Nm at 5000 rpm
+                    TRANSMISSION
+                    Light Speed Tourbillion Transmission (LSTT)
+                    9-speed, multi-clutch gearbox
+                    4-wheel drive
+                    4-wheel torque vectoring
+                    E-MOTORS
+                    BATTERY
+                    850V 14 kWh HV battery pack</p>
+        
+            </div>
+          </div>
+            </div>
+        </div>
+            </section>
+            <section id="porshe">
+                <div class="row mt-4">
+                    <div class="col">
+                       
+                   <img src="C:\Users\rohit\Downloads\porshe.jpg"  alt="">
+                    </div>
+                    <div class="col">
+                        <h1 class="display-3 mt-5">porshe:</h1>
+                        <p class="p-4">Porsche is a German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans1. It was founded in 1931 by Ferdinand Porsche and is headquartered in Stuttgart, Baden-Württemberg, Germany12.
+                             Porsche is owned by the Volkswagen Group and imports its products for the Indian market via the CBU route2.</p>
+                  <div class="card">
+                    <div class="card-header bg-dark text-white">porshe</div>
+                    <div class="card-body">
+                        <h4>Specifications</h4>
+                        <p>Battery Capacity93.4 kWhMax Power (bhp@rpm)482.76bhpMax Torque (nm@rpm)650NmSeating Capacity5Range388–452 kmBoot Space (Litres)446Body TypeWagon
+                            </p>
+                
+                    </div>
+                  </div>
+                    </div>
+                </div>
+                    </section>
+                    <section id="Lamborgini">
+                        <div class="row mt-4">
+                            <div class="col">
+                               
+                           <img src="C:\Users\rohit\Downloads\pexels-damian-barczak-8830068.jpg"  alt="">
+                            </div>
+                            <div class="col">
+                                <h1 class="display-3 mt-5">Lamborgini</h1>
+                                <p class="p-4">Ferruccio Lamborghini (1916–1993), an Italian manufacturing magnate, founded Automobili Ferruccio Lamborghini S.p.A. in 1963 to compete with Ferrari. The company was noted for using a rear mid-engine, rear-wheel drive layout. Lamborghini grew rapidly during its first decade, but sales plunged in the wake of the 1973 worldwide financial downturn and the oil crisis. The firm's ownership changed three times after 1973, including a bankruptcy in 1978. American Chrysler Corporation took control of Lamborghini in 1987 and sold it to Malaysian investment group Mycom Setdco and Indonesian group V'Power Corporation in 1994. In 1998, Mycom Setdco and V'Power sold Lamborghini to the Volkswagen Group where it was placed under the control of the group's Audi division.</p>
+                          <div class="card">
+                            <div class="card-header bg-dark text-white">Lamborgini</div>
+                            <div class="card-body">
+                                <h4>Specifications</h4>
+                                <p>The Lamborghini Aventador has 1 Petrol Engine on offer. The Petrol engine is 6498 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the Aventador has a mileage of 7.69 kmpl & Ground clearance of Aventador is 125mm. The Aventador is a 2 seater 12 cylinder car and has length of 4868mm</p>
+                        
+                            </div>
+                          </div>
+                            </div>
+                        </div>
+                            </section>
+
+                          
+</body>
+</html>
